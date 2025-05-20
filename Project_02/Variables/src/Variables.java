@@ -42,6 +42,5 @@ public class Variables {
         //declarar variable constante
         final var PI = 3.1415;
         System.out.println(PI);
-        System.out.println("Hola");
     }
 }
